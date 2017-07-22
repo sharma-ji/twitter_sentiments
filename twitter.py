@@ -1,8 +1,8 @@
-/*A twitter trend script by Mukul Sharma
+"""A twitter trend script by Mukul Sharma
 You need to enter the keyword (any celebrity, any noun, anything)
 The script will search the most recent 1000 tweets which contains that particular keyword
 As of now it can only search in english language
-but I will add functionlity for other languages*/
+but I will add functionlity for other languages"""
 import tweepy
 from textblob import TextBlob
 from statistics import *
